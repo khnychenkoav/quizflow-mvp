@@ -6,7 +6,7 @@ QuizFlow is a real-time quiz platform prototype for organizers and participants.
 
 - Figma design: https://www.figma.com/design/Iir67uZiOFG9fOjQ5tzS4y/Untitled?node-id=0-1&p=f&t=gj5FxMSEWYS14AJv-0
 - GitHub repository: https://github.com/khnychenkoav/quizflow-mvp
-- Explanatory note: docs/QuizFlow_Explanatory_Note.pdf
+- Explanatory note: docs/QuizFlow_Explanatory_Note_RU.pdf
 
 ## Features
 

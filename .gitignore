@@ -2,5 +2,6 @@ node_modules/
 dist/
 data/
 presentation-workspace/
+docs/QuizFlow_Explanatory_Note.pdf
 .env
 npm-debug.log*
